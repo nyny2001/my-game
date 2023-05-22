@@ -31,9 +31,11 @@
 <strong><h2>핵심 Java Class</h2></strong>
 <ul>
     <h3><li>StartActivity</li></h3>
-    <img src="https://github.com/nyny2001/my-game/assets/68697443/fd09254e-7ab5-4ef4-ad89-e6b405d4302e" alt="기초화면" style="width:300px;height: 600px;">
-    
-    
+    <br/>
+    <img src="https://github.com/nyny2001/my-game/assets/68697443/2803cf8a-5264-45ac-b2c9-fb86baebe8ec" alt="기초화면" style="width:300px;height: 600px;">
+    <br/>
+    <br/>
+    <br/>
     
     AndroidManifest.xml에서 지정하여 게임의 제일 첫 화면을 출력하는 부분입니다. 
   
@@ -52,8 +54,12 @@
  
   <ul>
     <h3><li>MainActivity</li></h3>
+     <br/>
     <img src="https://github.com/nyny2001/my-game/assets/68697443/fd09254e-7ab5-4ef4-ad89-e6b405d4302e" alt="기초화면" style="width:300px;height: 600px;">
-    
+     <br/>
+    <br/>
+    <br/>
+
   
     
     StartActivity에서 MainActivity로 넘어온 후 Activity 메인 화면이 실행됩니다.
