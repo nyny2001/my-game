@@ -31,8 +31,8 @@
 <strong><h2>핵심 Java Class</h2></strong>
 <ul>
     <h3><li>StartActivity</li></h3>
+    <img src="https://github.com/nyny2001/my-game/assets/68697443/fd09254e-7ab5-4ef4-ad89-e6b405d4302e" alt="기초화면" style="width:300px;height: 600px;">
     
-    <img src="img/캡처.JPG" alt="기초화면" style="width:300px;height: 600px;">
     
     
     AndroidManifest.xml에서 지정하여 게임의 제일 첫 화면을 출력하는 부분입니다. 
@@ -52,7 +52,7 @@
  
   <ul>
     <h3><li>MainActivity</li></h3>
-    <img src="img/캡처_1.JPG" alt="기초화면" style="width:300px;height: 600px;">
+    <img src="https://github.com/nyny2001/my-game/assets/68697443/fd09254e-7ab5-4ef4-ad89-e6b405d4302e" alt="기초화면" style="width:300px;height: 600px;">
     
   
     
