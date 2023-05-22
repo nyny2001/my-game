@@ -125,5 +125,7 @@
 
 <p>SpeedItemSprite :  해당 클래스는 속도 아이템 스프라이트를 생성하고 초기화하는 역할을 합니다. </p>
 </ul>
-
-<br><br><br><br><hr>
+    <br><br>
+    <br><br>
+    <strong>게임 플레이 영상은 Issues를 확인해 주시길 바랍니다.</strong>
+<br><br><hr>
