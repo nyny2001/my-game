@@ -96,14 +96,16 @@
 <ul>
 <br>
 
-<p>PauseDialog : Dialog 클래스를 상속하며, 
-    일시 정지 다이얼로그를 나타내는 커스텀 다이얼로그입니다.</p>
-<p>ResultActivity : 클래스는 게임 종료 후 결과를 표시하는 액티비티입니다.</p>
-<p>SpaceInvadersView : 게임을 구현할 수 있도록 필요한 기능을 제공합니다.<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;
-                       클래스를 정의하고 게임을 그리고 제어하기 위한 기능을 구현한 것입니다.</p>
+PauseDialog : Dialog 클래스를 상속하며, 
+    일시 정지 다이얼로그를 나타내는 커스텀 다이얼로그입니다.
+    
+ResultActivity : 클래스는 게임 종료 후 결과를 표시하는 액티비티입니다.
+    
+SpaceInvadersView : 게임을 구현할 수 있도록 필요한 기능을 제공합니다.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    클래스를 정의하고 게임을 그리고 제어하기 위한 기능을 구현한 것입니다.
 
 <br>
 <h3><li>sprites</li></h3>
