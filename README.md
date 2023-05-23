@@ -123,7 +123,7 @@
 
 <br>
 <h3><li>items</li></h3>
-<p>HealitemSprite 클래스는 Sprite 클래스를 상속하며, 
+<p>HealitemSprite : 클래스는 Sprite 클래스를 상속하며, 
     게임에서 사용되는 치유 아이템을 나타내는 스프라이트 객체입니다.</p>
 
 <p>PowerItemSprite : Sprite 클래스를 상속하며, 
