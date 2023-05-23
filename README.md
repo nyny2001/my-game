@@ -103,16 +103,22 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;
-     클래스를 정의하고 게임을 그리고 제어하기 위한 기능을 구현한 것입니다.</p>
+                       클래스를 정의하고 게임을 그리고 제어하기 위한 기능을 구현한 것입니다.</p>
 
 <br>
 <h3><li>sprites</li></h3>
-<p>AlienShotSprite : 해당 클래스는 외계인이 발사하는 총알을 나타내는 스프라이트 객체를 생성합니다.</p>
-<p>AlienSprite : 해당 클래스는 외계인 스프라이트를 생성하고 초기화하는 역할을 합니다. </p>
-<p>ShotSprite :  해당 클래스는 총알을 나타내는 스프라이트 객체를 생성하고 초기화하는 역할을 합니다.</p>
-<p>Sprite : sprites에 포함된 각 클래스별 sprite에 모든 종목들이 가지는 기본 x, y 좌표 입니다</p>
-<p>StarshipSprite : 해당 클래스는 아이템을 맞았을 때 각각의 아이템별 지정한 동작 상황을 메인 액티비티에 전달 합니다.</p>
-<p>SpecialshotSprite : 해당 클래스는 게임에서 필살기 사용 기능을 구현하는 클래스입니다.</p>
+<p>AlienShotSprite : 해당 클래스는 외계인이 발사하는 총알을 나타내는 
+                     스프라이트 객체를 생성합니다.</p>
+<p>AlienSprite : 해당 클래스는 외계인 스프라이트를 생성하고 
+                 초기화하는 역할을 합니다. </p>
+<p>ShotSprite :  해당 클래스는 총알을 나타내는 스프라이트 객체를 생성하고
+                 초기화하는 역할을 합니다.</p>
+<p>Sprite : sprites에 포함된 각 클래스별 sprite에 모든 종목들이 가지는 
+            기본 x, y 좌표 입니다</p>
+<p>StarshipSprite : 해당 클래스는 아이템을 맞았을 때 각각의 아이템별 지정한 동작 상황을 
+                    메인 액티비티에 전달 합니다.</p>
+<p>SpecialshotSprite : 해당 클래스는 게임에서 필살기 사용 기능을
+                       구현하는 클래스입니다.</p>
 
 
 <br>
